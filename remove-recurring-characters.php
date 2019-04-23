@@ -1,8 +1,5 @@
 <?php 
 
-include './start.php'; 
-//include './person.php'; 
-
 function removeConsecutiveChar(String $string){
 
 
@@ -124,5 +121,4 @@ removeConsecutiveChar( "XXAABBCCCCBBAX"); // outputs empty
 // "GGAOOXXXXOOGG" should return GGAGG
 //
 
-include './end.php'; 
 ?>
